@@ -3,13 +3,16 @@ Config = {
     "network" => "tool-box",
     
     "dotnet" => {
-        "image" => "mcr.microsoft.com/dotnet/sdk:latest"
+        "image" => "mcr.microsoft.com/dotnet/sdk:5.0-alpine",
+        "ports" => [5000, 5000],
+        "expose" => 5000,
+        "cmd" => "sh"
     },
 
     "nodejs" => {
         "image" => "node:latest",
-        "ports" => [5000, 5000],
-        "expose" => 5000,
+        "ports" => [3000, 3000],
+        "expose" => 3000,
         "env" => ['HOST=0.0.0.0']
     },
 
