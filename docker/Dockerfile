@@ -8,5 +8,8 @@ RUN pip install pipenv
 
 COPY Pipfile* .
 
-# RUN pipenv install --system --deploy
+# dev
 RUN pipenv install
+
+# deploy
+# RUN pipenv install --system --deploy

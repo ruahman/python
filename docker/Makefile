@@ -4,12 +4,13 @@ name = python
 ports = 8000:8000
 path = $(shell pwd)
 network = $(name)-net
-
+dockerFile = /home/ruahman/Projects/python/docker/Dockerfile
 
 .PHONY: build
 build:
+	@echo $(dockerFile)
 	@if [[ "$(shell docker images -q $(name) 2> /dev/null)" == "" ]]; then \
-		cd $(path); docker build -t $(name) .; \
+		docker build -f $(dockerFile) -t $(name) $(path); \
 	else \
 		echo "image: $(name) is already setup"; \
 	fi
