@@ -1,3 +1,0 @@
-Big O
-
-number of operation is not dependent on number of elements in array
