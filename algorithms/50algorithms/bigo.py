@@ -1,5 +1,5 @@
 """
-this is big o stuff
+this is big o stuff.
 
 f(n) = n
 f(n) = n^2
@@ -37,26 +37,25 @@ Merge sort = O(NLog(N))
 
 
 def sum_up_to_constant(num):
-    """
-    this is always O(1)
-    """
+    """Func is always O(1)."""
     return num * (num + 1) / 2
 
 
-def sum_up_to_linear(num):
+def Dum_up_to_linear(num):
     """
-    this is O(n) : leanear
+    This is O(n) : leanear
+
+    asdf
     """
     mysum = 0
+
     for i in range(0, num + 1):
         mysum += i
     return mysum
 
 
 def sum_up_to_linear_2(num):
-    """
-    also just O(n)
-    """
+    """Also just O(n)."""
     for i in range(0, num):
         print(i)
 
@@ -65,9 +64,7 @@ def sum_up_to_linear_2(num):
 
 
 def quadratic(num):
-    """
-    this is O(n²) : this is quadratic complexity
-    """
+    """this is O(n²) : this is quadratic complexity"""
     for i in range(0, num):
         for j in range(0, num):
             print(i, j)
