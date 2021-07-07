@@ -41,14 +41,13 @@ def sum_up_to_constant(num):
     return num * (num + 1) / 2
 
 
-def Dum_up_to_linear(num):
+def dum_up_to_linear(num):
     """
     This is O(n) : leanear
 
     asdf
     """
     mysum = 0
-
     for i in range(0, num + 1):
         mysum += i
     return mysum
