@@ -66,5 +66,4 @@ def run(html_path, csv_path, pdf_path):
 
     print_csv(phones, csv_path)
 
-    # ipdb.set_trace()
     make_pdf(phones, pdf_path)

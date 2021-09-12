@@ -52,7 +52,7 @@ def test_get_dom():
 
 def test_get_phone_numbers():
 
-    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/quebradillas-1.html"  # noqa: E501
+    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/html/quebradillas-1.html"  # noqa: E501
     r = get_file(path)
 
     dom = get_dom(r)
@@ -71,12 +71,12 @@ def test_get_phone_numbers():
 
 def test_print_csv():
 
-    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/quebradillas-1.html"  # noqa: E501
+    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/html/quebradillas-1.html"  # noqa: E501
     r = get_file(path)
 
     dom = get_dom(r)
 
     items = get_phone_numbers(dom)
 
-    ipdb.set_trace()
+    # ipdb.set_trace()
     print_csv(items, 'data/quebradillas_1.csv')
