@@ -3,5 +3,10 @@
 import jw
 
 if __name__ == '__main__':
-    jw.run('./data/quebradillas-1.html', 'data/quebradillas_1.csv')
-    jw.run('./data/quebradillas-2.html', 'data/quebradillas_2.csv')
+    jw.run('./data/html/quebradillas-1.html',
+           './data/csv/quebradillas_1.csv',
+           './data/pdf/quebradillas_1.pdf')
+
+    jw.run('./data/html/quebradillas-2.html',
+           './data/csv/quebradillas_2.csv',
+           './data/pdf/quebradillas_2.pdf')

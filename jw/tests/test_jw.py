@@ -18,7 +18,7 @@ def test_get_url():
 
 def test_get_file():
 
-    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/quebradillas-1.html"  # noqa: E501
+    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/html/quebradillas-1.html"  # noqa: E501
     r = get_file(path)
 
     assert r is not None
@@ -31,7 +31,7 @@ def test_get_file():
 
 def test_get_dom():
 
-    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/quebradillas-1.html"  # noqa: E501
+    path = r"/mnt/c/Users/dego_/Projects/python/jw/data/html/quebradillas-1.html"  # noqa: E501
     r = get_file(path)
 
     soup = get_dom(r)
