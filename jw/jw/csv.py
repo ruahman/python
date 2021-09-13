@@ -1,20 +1,24 @@
 """ Handles csv logic. """
 
 import csv
+import re
 
 
-def print_csv(items, path):
+def print_csv(items, path, territory_id):
     """ Print content to a csv file. """
+    phone_regex = re.compile(r'(\d{3})(\d{3})(\d{4})')
     with open(path, mode='w') as f:
-        fieldNames = ['first', 'last', 'address', 'phone']
+        fieldNames = ['First Name', 'Last Name',
+                      'Address', 'Phone', 'Territory ID']
         writer = csv.DictWriter(f, fieldnames=fieldNames)
         writer.writeheader()
         for item in items:
             writer.writerow({
-                'first': item.first,
-                'last': item.last,
-                'address': item.address.replace('\xa0', ''),
-                'phone': item.phone
+                'First Name': item.first,
+                'Last Name': item.last,
+                'Address': item.address.replace('\xa0', ''),
+                'Phone': phone_regex.sub(r'\1-\2-\3', item.phone),
+                'Territory ID': territory_id
             })
 
 
