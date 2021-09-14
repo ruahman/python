@@ -31,6 +31,7 @@ def get_items_from_csv(path):
         items = []
         for row in reader:
             items.append(
-                Phone(row['first'], row['last'], row['address'], row['phone'])
+                Phone(row['First Name'], row['Last Name'],
+                      row['Address'], row['Phone'])
             )
         return items
