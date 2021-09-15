@@ -4,6 +4,26 @@ import re
 from fpdf import FPDF
 
 
+class PDF(FPDF):
+    """ PDF class. """
+
+    def __init__(self, title, orientation, unit, format):
+        """ Initialize pdf. """
+        self.title = title
+        super().__init__(orientation=orientation, unit=unit, format=format)
+
+    def header(self):
+        """ Header of the pdf file. """
+        self.set_font('helvetica', style='B', size=15)
+        self.cell(0, 10, self.title, 0, 0, 'C')
+        self.ln(20)
+
+    def footer(self):
+        """ Footer of pdf document. """
+        self.set_font('helvetica', style='I', size=8)
+        self.cell(0, 10, 'Page ' + str(self.page_no()) + ' / {nb}', 0, 0, 'C')
+
+
 def truncate(str):
     """ Truncate a string. """
     if(len(str) > 22):
@@ -12,9 +32,11 @@ def truncate(str):
     return str
 
 
-def make_pdf(items, out):
+def make_pdf(items, out, title):
     """ Create pdfs from *.csv file. """
-    document = FPDF(orientation="P", unit="mm", format="A4")
+    # document = FPDF(orientation="P", unit="mm", format="A4")
+    document = PDF(title, orientation="P", unit="mm", format="A4")
+    document.alias_nb_pages()
     document.add_page()
     document.set_font('helvetica', size=12)
     document.set_auto_page_break(False)
