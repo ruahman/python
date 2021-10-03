@@ -5,7 +5,7 @@ from fpdf import FPDF
 
 
 class PDF(FPDF):
-    """ PDF class. """
+    """PDF class."""
 
     def __init__(self, title, orientation, unit, format):
         """ Initialize pdf. """
@@ -32,7 +32,7 @@ def truncate(str):
     return str
 
 
-def make_pdf(items, out, title):
+def make_pdf_from_items(items, title, out):
     """ Create pdfs from *.csv file. """
     # document = FPDF(orientation="P", unit="mm", format="A4")
     document = PDF(title, orientation="P", unit="mm", format="A4")

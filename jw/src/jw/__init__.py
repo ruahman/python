@@ -8,9 +8,11 @@ __version__ = '0.1.0'
 
 import re
 import requests
-from .dom import get_dom
-from .csv import print_csv
-from .pdf import make_pdf
+# from .dom import get_dom
+# from .csv import get_items_from_csv
+from .csv import get_items_from_csv
+from .pdf import make_pdf_from_items
+# from .pdf import make_pdf
 
 from collections import namedtuple
 Phone = namedtuple('Phone', ['first', 'last', 'address', 'phone'])
@@ -52,17 +54,8 @@ def get_phone_numbers(dom):
     return res
 
 
-def run(html_path, csv_path, pdf_path, territory_id):
-    """ Run jw scrapper. """
-    content = ""
-    if re.match(r"^https?|^www", html_path):
-        content = get_url(html_path)
-    else:
-        content = get_file(html_path)
-
-    dom = get_dom(content)
-    phones = get_phone_numbers(dom)
-
-    print_csv(phones, csv_path, territory_id)
-
-    make_pdf(phones, pdf_path)
+def pdf(csv_path, title, pdf_path):
+    """Create PDF from CSV file."""
+    items = get_items_from_csv(csv_path)
+    make_pdf_from_items(items, title, pdf_path)
+    # print(items)

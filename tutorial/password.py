@@ -1,3 +1,5 @@
+"""Just test password."""
+
 
 passwordFile = open('password.txt')
 password = passwordFile.read()

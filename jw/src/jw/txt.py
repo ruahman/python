@@ -4,10 +4,10 @@ import re
 
 
 def extract_data(path):
-    """ Extract text from pdf. """
+    """ Extract data from txt. """
     from . import Phone
 
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding='utf8') as f:
         txt = f.read()
         list = txt.split('\n')  # [:10]
         filter = [t for t in list if not re.search(
