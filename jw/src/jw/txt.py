@@ -3,7 +3,7 @@
 import re
 
 
-def extract_data(path):
+def extract_data(path, headerReg):
     """ Extract data from txt. """
     from . import Phone
 
@@ -11,7 +11,7 @@ def extract_data(path):
         txt = f.read()
         list = txt.split('\n')  # [:10]
         filter = [t for t in list if not re.search(
-            r'^ARECIBO\sTELEPHONE\sTERRITORY', t)]
+            headerReg, t) and t != '']
 
         items = []
         for idx in range(0, len(filter), 3):

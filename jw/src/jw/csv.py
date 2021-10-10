@@ -4,7 +4,7 @@ import csv
 import re
 
 
-def print_csv(items, path, territory):
+def create_csv(items, path, territory):
     """ Print content to a csv file. """
     phone_regex = re.compile(r'(\d{3})(\d{3})(\d{4})')
     with open(path, mode='w', encoding='cp1252') as f:
