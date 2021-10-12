@@ -1015,8 +1015,8 @@ Par Victor Rojas 2
 Cortes Morales , Aida
 Bda Zeno Gandia
 787-879-0208
-Cortes Moyeno , AbrahamCrespo Hernandez , Angel
-Dominguito
+Cortes Moyeno , AbrahamCrespo Hernandez ,
+Angel Dominguito
 787-880-2565
 Crespo Morales , Ana C
 Bo Sabana Hoyos
@@ -1047,7 +1047,7 @@ Cruz , Ana
 Jard de Palo Blanco
 787-650-6880
 Sabana Hoyos
-n/a
+Jard de Palo Blanco
 787-880-3012
 Cortes Ramos , Ariel
 Urb Paseo Reales
@@ -1669,7 +1669,7 @@ Gonzalez , Abdiel
 Cond Terra Azul
 787-650-7984
 Gonzalez , Adrian
-n/a
+address
 787-650-3987
 Gonzalez , Agustin
 Sec Guayabota

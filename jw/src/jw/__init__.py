@@ -19,7 +19,7 @@ Phone = namedtuple('Phone', ['first', 'last', 'address', 'phone'])
 
 
 def get_url(url):
-    """ Get content from url. """
+    """Get content from url."""
     r = requests.get(url)
 
     if r.status_code == 200:
@@ -29,7 +29,7 @@ def get_url(url):
 
 
 def get_file(filePath):
-    """ Get content from file. """
+    """Get content from file."""
     try:
         with open(filePath, 'r') as f:
             content = f.read()
@@ -41,7 +41,7 @@ def get_file(filePath):
 
 
 def get_phone_numbers(dom):
-    """ Get the phone numbers from dom object. """
+    """Get the phone numbers from dom object."""
     items = dom.find_all('a', href=re.compile(r'^/Phone/787'))
 
     res = []
@@ -59,3 +59,8 @@ def pdf(csv_path, title, pdf_path):
     items = get_items_from_csv(csv_path)
     make_pdf_from_items(items, title, pdf_path)
     # print(items)
+
+
+def csv():
+    """Generate csvs'."""
+    pass
