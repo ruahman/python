@@ -1,8 +1,12 @@
-"""the sliding window problem"""
+"""The sliding window problem."""
 
 
 def maximum_sum(arr, window_size):
-    """implement sliding window"""
+    """
+    Find the max sum of consec nums in array.
+
+    Only looping throught the array once.
+    """
     array_size = len(arr)
 
     # windows size can not be bigger than array
@@ -14,6 +18,7 @@ def maximum_sum(arr, window_size):
     window_sum = sum([arr[i] for i in range(window_size)])
     max_sum = window_sum
 
+    # we just have to go throught the loop once
     for i in range(array_size - window_size):
         # subtract last value add new one
         window_sum = window_sum - arr[i] + arr[i + window_size]
