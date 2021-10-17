@@ -18,6 +18,9 @@ def test_get_items_from_csv():
     (r'./data/txt/import/arecibo-a.txt', []),
     (r'./data/txt/import/arecibo-b.txt', []),
     (r'./data/txt/import/arecibo-c.txt', []),
+    (r'./data/txt/import/arecibo-d.txt', []),
+    (r'./data/txt/import/arecibo-e.txt', []),
+    (r'./data/txt/import/arecibo-f.txt', []),
 ])
 def test_extract_phone(territory):
     phones = jw.txt.extract_phone(
@@ -28,10 +31,12 @@ def test_extract_phone(territory):
 
     for phone in phones:
         assert isinstance(phone, Phone)
+        # print(phone)
 
     print(f"phones size: {len(phones)}")
 
 
+@pytest.mark.skip
 @pytest.mark.csv
 @pytest.mark.parametrize("territory", [
     ('arecibo-a', []),
