@@ -21,6 +21,23 @@ def test_get_items_from_csv():
     (r'./data/txt/import/arecibo-d.txt', []),
     (r'./data/txt/import/arecibo-e.txt', []),
     (r'./data/txt/import/arecibo-f.txt', []),
+    (r'./data/txt/import/arecibo-g.txt', []),
+    (r'./data/txt/import/arecibo-h.txt', []),
+    (r'./data/txt/import/arecibo-i.txt', []),
+    (r'./data/txt/import/arecibo-j.txt', []),
+    (r'./data/txt/import/arecibo-k.txt', []),
+    (r'./data/txt/import/arecibo-l.txt', []),
+    (r'./data/txt/import/arecibo-m.txt', []),
+    (r'./data/txt/import/arecibo-n.txt', []),
+    (r'./data/txt/import/arecibo-o.txt', []),
+    (r'./data/txt/import/arecibo-p.txt', []),
+    (r'./data/txt/import/arecibo-q.txt', []),
+    (r'./data/txt/import/arecibo-r.txt', []),
+    (r'./data/txt/import/arecibo-s.txt', []),
+    (r'./data/txt/import/arecibo-t.txt', []),
+    (r'./data/txt/import/arecibo-v.txt', []),
+    (r'./data/txt/import/arecibo-w.txt', []),
+    (r'./data/txt/import/arecibo-z.txt', []),
 ])
 def test_extract_phone(territory):
     phones = jw.txt.extract_phone(
