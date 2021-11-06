@@ -9,10 +9,8 @@ __version__ = '0.1.0'
 import re
 import requests
 # from .dom import get_dom
-# from .csv import get_items_from_csv
 from .csv import get_items_from_csv
 from .pdf import make_pdf_from_items
-# from .pdf import make_pdf
 
 from collections import namedtuple
 Phone = namedtuple('Phone', ['first', 'last', 'address', 'phone'])

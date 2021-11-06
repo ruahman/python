@@ -1,0 +1,306 @@
+Hatillo	P	Telephone	Territory
+Acevedo Perez , Paula
+Bo Bayaney
+787-262-1658
+Acevedo , Porfirio
+Bo Capaez
+787-544-7707
+Acevedo Valentin , Pedro
+Buena Vista
+787-262-6283
+Adames Velez , Paulina
+Par Roberto Clemente
+787-262-0583
+Adorno Santiago , Pedro A
+Buena Vista
+787-898-0498
+Aguilar , Pedro
+Bo Aibonito
+787-898-7102
+Alba Garcia , Primitiva
+Parc Manuel Candelaria
+787-898-7379
+Alfonzo Velez , Pedro J
+Palma Gorda
+787-262-1258
+Alvarado Pagan , Providencia
+Dr Susoni
+787-898-4854
+Amador Llorens , Pablo
+2 Km 852
+787-898-3337
+Amador , Pedro F
+Manuel Lacomba
+787-898-3995
+Amador Saavedra , Pedro
+M Lacomba
+787-898-2623
+Arce Ramos , Pedro
+Carrizales
+787-262-8291
+Aviles Dobles , Pedro
+Ests de Palma Gorda
+787-820-7949
+Cardona Aviles , Paulina
+Bo Bayaney
+787-898-9307
+Cardona Cardona , Pedro
+Bayaney
+787-820-3476
+Casanova Montalvo , Pedro
+Bo Pueblo
+787-820-5472
+Castro Aguilar , Pedro A
+Ests de Hatillo
+787-898-5313
+Chico Carrion , Pedro
+Bda Colon
+787-262-8112
+Chico Villanueva , Pedro
+Bo Carrizalez
+787-820-1557
+Colon Arce , Primitivo
+Palomar
+787-898-1908
+Colon Marcial , Primitiva
+Buena Vista
+787-898-8215
+Concepcion , Pedro
+Bo Buena Vista
+787-820-0161
+Cordero Hernandez , Pedro A
+Bo Naranjito
+787-898-2630
+Hatillo	P	Telephone	Territory
+Cordero Santiago , Pedro
+Naranjito
+787-898-2417
+Correa Ramos , Pedro
+Bo Capaez
+787-262-4637
+Cortes Velez , Prisilas
+Candelaria
+787-898-4942
+Cruz Perez , Pablo
+Corcobada
+787-262-5491
+Cruz Perez , Pedro Juan
+Bo Capaez
+787-898-4926
+Cruz Roman , Pedro
+Bo Pueblo
+787-820-1758
+De Jesus Rosado , Pedro A
+Parc Capo
+787-262-6474
+Delgado Delgado , Primitivo
+Carrizales
+787-898-0503
+Delgado Olavarria , Pilar
+Parc Carrizales
+787-898-6297
+Delgado Toledo , Primitivo
+Bo Capaez
+787-898-3352
+Diaz Ruiz , Pedro T
+Bo Carrizales
+787-820-2919
+Dorta Dorta , Pablo
+130 Km 48
+787-820-2048
+Dorta Roman , Pedro
+Bo Pajuil
+787-898-9592
+Exposito Caballero , Pablo
+Bo Corcovada
+787-898-4646
+Feliciano Adorno , Pedro L
+Bo Buena Vista
+787-820-2250
+Figueroa Acevedo , Pedro
+Bo Aibonito
+787-262-7931
+Figueroa Deida , Petra I
+Par Rafael Capo
+787-820-2256
+Garcia Irizarry , Pedro
+Bo Bayaney
+787-820-1767
+Garcia , Pablo M
+Carrizalez
+787-898-0146
+Garcia Rodriguez , Pedro
+Bo Pueblo
+787-898-4954
+Gonzalez Larriuz , Pedro
+El Fuego
+787-262-4548
+Gonzalez Rodriguez , Pedro L
+2 Km 860
+787-262-2864
+Hernandez Rodriguez , Pedro
+Luis
+Bda Clan
+787-262-4514
+Jimenez Rivera , Pilar
+Roberto Clemente II
+787-262-0278
+Hatillo	P	Telephone	Territory
+Lopez Hernandez , Primitiva
+Bayaney
+787-898-7233
+Lopez Lopez , Pedro Juan
+Urb Costa Norte
+787-544-0695
+Lopez , Pablo M
+Bo Bayaney
+787-898-7821
+Lopez Soto , Pedro
+Parc de Capaez
+787-262-0149
+Lopez Vazquez , Pedro
+Bo Bayaney
+787-820-0883
+Maisonet Escobar , Pedro J
+Pueblo
+787-898-0143
+Marrero Romero , Pedro
+Bo Naranjito
+787-898-9073
+Marrero Ruiz , Pedro
+Naranjito
+787-820-5314
+Martinez , Pablo
+Bo Corcovada
+787-898-5100
+Medina Gonzalez , Pedro L
+488 Km 17
+787-898-8511
+Medina Rosa , Pedro
+Par Capaez
+787-820-2487
+Mendez Pastrana , Pedro J
+2 Km 859
+787-898-2812
+Mercado Vazquez , Pedro
+Capaez
+787-262-4663
+Moya Agular , Pedro
+Bo Pajuil
+787-898-3286
+Moya Ruiz , Pedro
+Bo Capaez
+787-898-3356
+Ortiz Correa , Pilar
+Par Roberto Clemente
+787-262-3965
+Peña Torres , Providencia
+129 Km 130
+787-898-2242
+Perez Candelaria , Pedro
+Par Roberto Clemente
+787-898-0649
+Perez Cruz , Pablo
+Buena Vista
+787-898-8860
+Perez , Porfirio
+Bo Capaez
+787-544-7601
+Quintana , Paulina
+Lorenzo Coballes
+787-898-1794
+Reyes Espinosa , Pedro
+Sonadora
+787-898-7884
+Reyes Feliciano , Pilar
+Campo Alegre
+787-898-8907
+Reyes Gonzalez , Paula
+Parc Roberto Clemente
+787-262-3856
+Hatillo	P	Telephone	Territory
+Rivera , Paula
+Pitre Aibonito
+787-820-5356
+Rivera , Paulino
+Bo Buena Vista
+787-262-4024
+Rivera , Pricila
+Francisco Velazquez
+787-820-0767
+Rivera , Primitivo
+Naranjito
+787-898-8390
+Rivera Roman , Porfirio
+Bo Corcovada
+787-898-3169
+Rivera Velez , Pura
+Bayaney
+787-262-0285
+Robles Urdaz , Pilar
+134 Km 38
+787-262-2191
+Rodriguez Alicea , Perfidia
+Manuel Candelaria
+787-898-5567
+Rodriguez , Petra
+Bayaney
+787-898-9279
+Rodriguez , Pito
+Bo Pueblo
+787-898-5639
+Rojas Osorio , Patricia
+Lenero Aibonito
+787-820-4917
+Rojas , Pedro
+2 Km 867
+787-898-4524
+Roman Irizarry , Pablo
+Bo Campo Alegre
+787-898-8581
+Roman Perez , Pedro L
+Naranjito
+787-820-3713
+Rosa Herrera , Pedro
+Bo Carrizales
+787-898-6361
+Ruiz Linares , Pedro
+Parc Campo Alegre
+787-898-8728
+Ruiz Soto , Pedro L
+Bo Campo Alegre
+787-262-7321
+Santiago Davila , Pedro
+Bo Campo Alegre
+787-544-6114
+Santiago Medina , Pedro
+Bo Corcovada
+787-898-2853
+Santiago Soto , Pablo
+Bayaney
+787-820-6938
+Segarra Jorge , Pablo
+Bo Pueblo
+787-898-4142
+Toledo Diaz , Primo
+Bo Corcobada
+787-898-5301
+Toledo Rosa , Pedro
+Dr Susoni
+787-898-5850
+Torrado Dorta , Pedro Luis
+Carrizales
+787-898-3445
+Hatillo	P	Telephone	Territory
+Torres Montero , Pedro L
+Villa Esperanza
+787-820-3720
+Torres , Pedro
+Sta Rosa
+787-898-2347
+Torres Santiago , Pedro A
+Bayaney
+787-898-2432
+Valentin Ramos , Paula
+Bayaney
+787-820-2824

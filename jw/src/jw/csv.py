@@ -1,11 +1,11 @@
-""" Handles csv logic. """
+"""Handles csv logic."""
 
 import csv
 import re
 
 
 def create_csv(items, path, territory):
-    """ Print content to a csv file. """
+    """Print content to a csv file."""
     phone_regex = re.compile(r'(\d{3})(\d{3})(\d{4})')
     with open(path, mode='w', encoding='cp1252') as f:
         fieldNames = ['Phone', 'First', 'Last',
@@ -23,7 +23,7 @@ def create_csv(items, path, territory):
 
 
 def get_items_from_csv(path):
-    """ Get items from csv file. """
+    """Get items from csv file."""
     from . import Phone
 
     with open(path, 'r', encoding='cp1252') as f:

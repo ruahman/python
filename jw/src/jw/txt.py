@@ -3,7 +3,7 @@
 import re
 
 
-def extract_phone(path, skipList):
+def extract_phone(path, skipList=[]):
     """Extract data from txt."""
     from . import Phone
 
