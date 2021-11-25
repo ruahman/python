@@ -1,4 +1,4 @@
-""" Create pdf files for teritroies. """
+"""Create pdf files for teritroies."""
 
 import re
 from fpdf import FPDF
@@ -8,24 +8,24 @@ class PDF(FPDF):
     """PDF class."""
 
     def __init__(self, title, orientation, unit, format):
-        """ Initialize pdf. """
+        """Initialize pdf."""
         self.title = title
         super().__init__(orientation=orientation, unit=unit, format=format)
 
     def header(self):
-        """ Header of the pdf file. """
+        """Header of the pdf file."""
         self.set_font('helvetica', style='B', size=15)
         self.cell(0, 10, self.title, 0, 0, 'C')
         self.ln(20)
 
     def footer(self):
-        """ Footer of pdf document. """
+        """Footer of pdf document."""
         self.set_font('helvetica', style='I', size=8)
         self.cell(0, 10, 'Page ' + str(self.page_no()) + ' / {nb}', 0, 0, 'C')
 
 
 def truncate(str):
-    """ Truncate a string. """
+    """Truncate a string."""
     if(len(str) > 22):
         return str[:22] + '...'
 
@@ -33,7 +33,7 @@ def truncate(str):
 
 
 def make_pdf_from_items(items, title, out):
-    """ Create pdfs from *.csv file. """
+    """Create pdfs from *.csv file."""
     # document = FPDF(orientation="P", unit="mm", format="A4")
     document = PDF(title, orientation="P", unit="mm", format="A4")
     document.alias_nb_pages()

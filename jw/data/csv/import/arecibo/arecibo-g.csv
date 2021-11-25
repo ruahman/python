@@ -1,0 +1,536 @@
+"First","Last","Address","Phone","Status"
+"Gloria","Baberi","Bo Yeguada","787-262-6858","S"
+"Glendalys","Perez","Bda San Jose","787-650-0648","FB"
+"Gloria","Cardona","Sect Buenos Aires","787-650-1201",
+"Giselle","Bermudez","Bo Sabana Hoyos","787-650-1249",
+"Guillermo","Rodriguez","Urb Marysol","787-650-2916",
+"Griselle","Pellot Cordero","Bo Dominguito","787-650-2929","NH"
+"Glendaly","Lopez","Urb Paseos Reales","787-650-3777",
+"Georgina","Ocasio","Pueblo","787-650-4755","FB"
+"Guillermo","Torres","Bo Dominguito","787-650-4816","FB"
+"Gloria","Figueroa Lugo","Los Llanos","787-650-4883",
+"Gilberto","Andujar","Bo Miraflores","787-650-4889",
+"Guillerminia","Lopez","Par Mattei","787-650-5785",
+"Grace M","Rodriguez","Bo Sabana Hoyos","787-650-5830",
+"Gloria","Negron","Villa Garrochales","787-650-5880","FB"
+"Giovanni","Colon","Villa Los Santos I","787-650-6661",
+"Gilberto","Reyes Reyes","Bo Dominguito","787-650-6783",
+"Gabriel","Lopez","Par Domingo Ruiz","787-650-6784",
+"Gloria","Soto Aida","Urb Victor Rojas I","787-650-6873","FB"
+"Gabriel","Colon","Ocean View","787-650-6888",
+"Gloria","Medina","Urb San Lorenzo","787-650-6897","E"
+"Gloria","Rodriquez","Urb Victor Rojas II","787-650-7501",
+"Gloria","Ramos","Bda Zeno Gandia","787-650-7511",
+"Gladys","Rosado","Bo Miraflores","787-650-7526",
+"George","Colon Colon","Bo Dominguito","787-650-7565",
+"German","Rivas","Urb Vista Azul","787-650-7568",
+"Guillermina","Rodriquez","Urb Victor Rojas I","787-650-7725",
+"Giovanny","Colon","Sabana Hoyos","787-650-7757",
+"German","Rivera","Sabana Hoyos","787-650-7762",
+"Gabriel","Lugo","Sabana Hoyos","787-650-7774",
+"Gladys","Medero","Par Navas","787-650-7805",
+"Geovanny","Maisonet","Bo Jarealitos","787-650-7829",
+"German","Padin Maldonado","Sect San Daniel","787-650-7833","FB"
+"Gloria","Gonzalez","Urb Paseos Reales","787-650-8721",
+"Gustavo","Roman Escobar","Bo Islote","787-650-9137",
+"Gabriel","Carde","Urb Paseos Reales","787-650-9458",
+"George","Jordan","Bo La Planta","787-650-9482",
+"Gloria E","Clereve","Abra San Fco","787-650-9495",
+"Gregorio","Rosa","Urb Victor Rojas II","787-650-9755",
+"German","Rodriguez Soto","Bo Hato Arriba","787-815-0068",
+"Guillermo","Mercado Montalvo","Jdnes de Arecibo","787-815-0137","FB"
+"Generosa","Bonilla Rodriguez","Bo Hato Arriba","787-815-0207",
+"Gloria","Garcia Ortiz","Sabana Hoyo 2","787-815-0426",
+"Glodimi","Perez Santigo","Bo Islote","787-815-0442","FB"
+"German","Candelaria Camacho","Villa Mena","787-815-0491",
+"Generosa","Andujar Cordero","Urb Est de Arecibo","787-815-0840",
+"Gladys","Montalvo Zeno","Bo Domingo Ruiz","787-815-0853","FB"
+"Gerardo","Prunes Torres","Bo Sabana Hoyos","787-815-0864","FB"
+"Gabriel","Rodriguez Rodriguez","Par Rodriguez Olmo","787-815-0916",
+"Glorimar","Ramos Carrion","Bo Arenalejos","787-815-1078",
+"Giovany","Otero Ortiz","Ests de La Sabana","787-815-1489","FB"
+"Graciela","Ramos Torres","Urb University Gdns","787-815-1547",
+"Gregoria","Cordero","Par Moreda","787-815-1701",
+"Glorivel","Astor Santiago","Bo Miraflores","787-815-1779",
+"Gilberto","Garcia Rivera","Candelaria","787-815-2029",
+"Gloria","Horta Hernandez","Urb Los Pinos","787-815-2134",
+"Gregoria","Vargas Guzman","Bo Palache","787-815-2386","FB"
+"Gloria E","Torres Cruz","Bo Miraflores","787-815-2409","FB"
+"Guadalupe","Faria Mendez","Bo Arenales","787-815-2753",
+"Gladys","Domena Torres","Bo Rio Arriba","787-815-2769",
+"Gabriel","Roman Ramos","Ests de Sabana","787-815-2847",
+"Gisella","Rivera Pellicier","Bo Sabana Hoyo","787-815-2953",
+"Gerarda","Irizarry Pagan","Bo Sabana Hoyos","787-815-3072",
+"German","Torres Mercado","Bo Arrozar","787-815-3149","FB"
+"Gregorio","Torres Torres","Bo Miraflores","787-815-3219","FB"
+"Gloria","Colon Negron","Bo Espino","787-815-3306",
+"Gilberto","De Jesus Rivas","Bo Bajadero","787-815-3332",
+"Gisela","Melendez Rivera","Urb Los Pinos","787-815-3514","FB"
+"Gorimar","Rivera Serrano","Balceiro","787-815-3557",
+"Gloria","Ramirez Correa","Urb Los Pinos","787-815-3562",
+"Gretchen","Tirado Montalvo","Carrera II","787-815-3563","FB"
+"Gladys","Delpin Martinez","Sabana Hoyos","787-815-3603",
+"Gertrudis","Rivera Cruz","Sabana Hoyos","787-815-3609","NH"
+"Gisela","Gonzalez Sein","Bo Islote","787-815-3765",
+"Guillermina","Yambo Ortiz","Urb Rodriguez Olmo","787-815-4060","FB"
+"Guillermo","Morales Ruiz","Bo Sabana Hoyo","787-815-4071","FB"
+"Gloria M","Reyes De Rios","Bo Esperanza","787-815-4094",
+"George","Thoms Blackstock","Urb Paseos Reales","787-815-4157","B"
+"Gladys","Rodriguez Rivera","Bo Miraflores","787-815-4261",
+"Grisel","Oyola Rios","Bo Domingo Ruiz","787-815-4352","FB"
+"Graciela","Martinez Sanchez","Rpto Los Rosario","787-815-4488",
+"Gabriel","Garcia Nieves","Vista Azul","787-815-4534",
+"Gerardo","Gonzalez Del Valle","Bo Santana","787-815-4543",
+"Generosa","Gonzalez Roman","Bo Bajadero","787-815-4758",
+"Gina","Maldonado Cuevas","Bo Dominguito","787-815-4784",
+"Glorimar","Rivera Soto","Urb Ests De La Sabana","787-815-4787",
+"Glendalys","Galan Figueroa","Jdnes Palo Blanco","787-815-4938",
+"Gladys","Villegas Davila","Urb Los Pinos","787-815-4992","FB"
+"Gertrudis","Rivera Vazquez","Parc Moreda","787-815-5146",
+"Guillermo","Mejias Ortiz","Callejon del Diablo","787-815-5402","FB"
+"Gloria E","Gonzalez Serrano","Sect Manantiales","787-815-5411",
+"Grace N","Iguinas Feliciano","Bo Rio Arriba","787-815-5475",
+"Guido","Peña Hurtado","University Gardens","787-815-5834","FB"
+"Grisel","Acevedo Vazquez","Bo Santana","787-815-6137",
+"Gloria","Rosario Medina","Radioville","787-815-6149",
+"Gertrudis","Perez Guzman","Bo Arenalejos","787-815-6202","FB"
+"Gilberto","Rodriguez Cordero","Rpto Martell","787-815-6208",
+"Genoveva","Lopez Rodriguez","Esteban Padilla","787-815-6541",
+"Georgina","Martinez Gonzalez","Sabana Hoyos","787-815-6631",
+"Gregorio",,"Sabana Hoyos","787-815-6698",
+"Gloria E","Feliciano Marrero","Moreda Candelaria","787-815-7282",
+"Gladys E","Rivera Guzman","Par Miraflores","787-815-8962",
+"Gladys Margarita","De Jesus","Vista Azul","787-816-0157",
+"Gustavo","Gandia Rosa","Urb Jdnes de Factor","787-816-0427",
+"Gloria E","Ramos Ruiz","Dominguitos","787-816-0516",
+"Gladys","Rivera Feliciano","Ext Villa Toledo","787-816-0898",
+"Gerardina",,"Domingo Ruiz","787-816-1013",
+"Gladys","Negron Torres","Bo Dominguito","787-816-1354","NH"
+"Graciano","Rivera Rivera","Urb Villa Toledo","787-816-1467",
+"Geraldo","Mora Velazquez","Hato Arriba","787-816-1887","NH"
+"Grisell","Figueroa Maldonado","Bo Domingo Ruiz","787-816-2978",
+"Gidel","Herrera Figueroa","Bo Jarealitos","787-816-3553",
+"Gloria","Ramos Cruz","Cotto","787-816-4853",
+"Granelia","Colon Gomez","Bo Islote","787-816-5336",
+"Gladys","Pagan Aquino","Sect Victor Rojas II","787-816-5624","FB"
+"Georgina","Hernandez Correa","Bo Caños","787-816-5804",
+"Gladys","Guzman De Jesus","Urb Garcia","787-816-5822",
+"Gladys","Soto Quiñones","Bda San Jose","787-816-7741","FB"
+"Grisselle","Castro Gonzalez","Victor Rojas II","787-816-7869",
+"Gladys","Santana Ocasio","Bo Hato Viejo","787-816-8157","FB"
+"Gaspar","Rosado Molina","Res Ramon Marin Sola","787-816-8158",
+"Gerald","Moran","Los Mora","787-816-8928","FB"
+"Glorimar","Mercado Nuñez","Ballaja","787-817-0022","NH"
+"Gladys E","Gonzalez Rivera","Bo Hato Arriba","787-817-0067",
+"Gloria","Torres Delgado","Juan Colon Padilla","787-817-0211","FB"
+"Gustavo","Bravo Padin","La Pra Dominguito","787-817-0213",
+"Gladys","Del Busto","Bo Miraflores","787-817-0299",
+"Generosa","Molina Cortes","Bo Islote","787-817-0618","FB"
+"Genoveva","Ayala Santiago","Par Nuevas","787-817-0674",
+"Gregorio","Arce Mendez","Bo Esperanza","787-817-0774",
+"Gilberto","Agosto Reyes","Sect Palache","787-817-1238",
+"Giselle M","Rodriguez Torres","Urb San Lorenzo","787-817-1521",
+"Gustavo","Ocaña Cruz","Bo San Islote","787-817-1529","NH"
+"Griselle","Alvarez Serrano","Bo Hato Viejo","787-817-1573",
+"Guadalupe","Crespo","Urb Victor Rojas II","787-817-1682",
+"Gladys","Greo Montalvo","Par Nuevas","787-817-1996",
+"Gladys E","Vazquez Santiago","Santana","787-817-2224","FB"
+"Gilberto","Ramos Rios","Bo Miraflores","787-817-2733",
+"Gabriela","Collazo Valencia","Vistas del Atlantico","787-817-2839",
+"Gertrudis M","Garcia Torrado","Ocean View","787-817-3358","NH"
+"Gloria M","Mercado Olivero","Combate","787-817-3486","FB"
+"Grissel","Rivera Santiago","Guinea Los Canos","787-817-3549",
+"Guillermo","Morales Gonzalez","Sabana Hoyos","787-817-3576","FB"
+"Gumersindo",,"Bo Tanama","787-817-3962",
+"Geronimo","Gonzalez Gerena","492 Km 14","787-817-4008",
+"Gabriel","Negron Santiago","Bo Sabana Hoyo","787-817-4313","FB"
+"Graciela","Acevedo Ayala","Jose Barbosa","787-817-4403",
+"Genoveva","Luciano Nieves","Bda Zeno Gandia","787-817-4751",
+"Gilberto L","Rios Rivera","Bo San Daniel","787-817-4854",
+"Gloria","Rivera","Bo Hato Arriba","787-817-4869",
+"Guadalupe","Vega Padin","Par Navas","787-817-5361","FB"
+"Georgina","Reyes De Jesus","Jdns de Arecibo","787-817-5639",
+"Gloria","Perez Gutierrez","Bo Factor I","787-817-5833",
+"Gonzalo","Toledo Romero","Victor Rojas I","787-817-6249","FB"
+"Grisselle","Lugo Maria","Urb Paseos Reales","787-817-6349",
+"Giovanni","Rojas De Jesus","Susoni","787-817-6359",
+"Gladys","Torres Pabon","San Fco","787-817-6536","FB"
+"German","Martinez Vega","Urb Paseo Rreales","787-817-6547",
+"Gloria","Ortiz Guardarrama","Bo Hato Viejo","787-817-6674","FB"
+"Glady","Colon Bosque","Ramon Marin Sola","787-817-6697",
+"Gregorio","Medina Picon","Bo Factor I","787-817-7544","FB"
+"Gloria Iris","Nuñez Aquino","Bo Tanama","787-817-8201","FB"
+"Gladys","Izquierdo Centeno","Palo Blanco","787-817-8368",
+"Gladys","Cruz Quintero","Bo Sabana Hoyos","787-817-8552",
+"Gladys","Carbonell Mamery","Urb El Paraiso","787-817-8861",
+"Guillermo","Rodriguez Martinez","Urb Jdnes de Arecibo","787-878-0197",
+"Gladys","Garcia Reyes","Matienzo Cintron","787-878-0244",
+"Grisselle","Rodriguez","Urb Marisol","787-878-0502",
+"Georgina","Diaz Rios","Cercadillo","787-878-0558",
+"Gregorio","Serrano Fuentes","Ext Zeno Gandia","787-878-0568",
+"Geronima","Rivera Rodriguez","Villa Serena","787-878-0723",
+"Gabriela","Morelos Saldivas","Vista Azul","787-878-0746",
+"Gloria","Santiago Gonzalez","San Daniel","787-878-0854","NH"
+"Gregoria","Montijo Rodriguez","Bo Bajadero","787-878-0916","FB"
+"Gilberto","Natal Lago","Jarealito","787-878-0957","FB"
+"Geraldo","Gomez Correa","Bo Factor I","787-878-1186",
+"Gustavo J","Rosario Vera","Villa Serena","787-878-1267",
+"George","Brown","Jdnes de Arecibo","787-878-1351",
+"Glaudimar","Tavares Araujo","Bo Rodriguez Olmo","787-878-1357","FB"
+"Graciela E","Pagan Echevarria","Urb Brisas Del Valle","787-878-1367","E"
+"Gloria","Rodriguez Cuevas","Par Rodriguez Olmo","787-878-1372",
+"Gail E","Cintron Rodriguez","San Luis","787-878-1392",
+"Gladys","Colon Torellys","Ariosto Cruz","787-878-1469",
+"Gregoria","Soto Quiles","Cuchi I","787-878-1491","FB"
+"Gilberto","Padilla Sanchez","Gonzalo Marin","787-878-1569","FB"
+"Guillermo","Campos","Villa Angela","787-878-1625",
+"Gilberto","Diaz Molina","Victor Rojas 2","787-878-1707",
+"Gladys","Rice Velez","Hcda del Paraiso","787-878-1758",
+"German","Hernandez Diaz","Urb San Lorenzo","787-878-1787",
+"Gilberto","Rivera Castaño","Bo Hato Arriba","787-878-1854",
+"Gladys E","Del Valle Gonzalez","Bo Miraflores","787-878-1977",
+"Garcia M","Reyes","Urb Villa Serena","787-878-2056",
+"Gilberto","Soto Nuñez","Vista Azul","787-878-2097","E"
+"Gilberto","Ruiz Carrion","129 Km 16","787-878-2100","NH"
+"Gloria","Rios Caban","Bo Green","787-878-2181",
+"Gloria","Molina Maestre","Bo Barranca","787-878-2193","FB"
+"Gloria","Rivera Lebron","Bo Sabana Hoyos","787-878-2270",
+"Gilberto","Morales Maldonado","Victor Rojas II","787-878-2416","FB"
+"Guillermo","Morales Teron","Bo Hato Abajo","787-878-2459","FB"
+"Griselle","Lugo Torres","Hato Viejo","787-878-2469",
+"Gilberto","Dorta Rodriguez","Lourivette Barran","787-878-2503",
+"Gloria","Duperoys Carrion","Urb Villa Serena","787-878-2506",
+"Griselle","Matias Sanchez","Bo Domingo Ruiz","787-878-2534","FB"
+"Gloria C","Salaberrios","Victor Rojas 2","787-878-2604",
+"Graciliano","Rodriguez","Bo Dominguito","787-878-2608",
+"Gloria","Santiago Perez","Jdnes de Arecibo","787-878-2676","FB"
+"German","Cordero Figueroa","Los Caños","787-878-2789",
+"Gil","Molina Perez","Bo Hato Arriba","787-878-2792","FB"
+"Gilberto","Ramos Bravo","653 Km 24","787-878-3115",
+"Gladys","Rosa Sanchez","San Francisco","787-878-3150",
+"Grace E","Pike","Urb Cam Del Valle","787-878-3400","E"
+"Gregoria","Alvarez Maisonet","Bo Dominguito","787-878-3578",
+"Guillermo S","Marques","A Martell","787-878-3627",
+"Gloria","Toledo Heredia","Rodriguez Olmo","787-878-3915","FB"
+"Gloria","Nieves Martinez","Ocean View","787-878-3955",
+"Gilberto","Torres Rios","Jdns Arecibo","787-878-3956","FB"
+"Gloria","Crespo Carmen","Cotto","787-878-4132",
+"Georgina","Gonzalez Martinez","Hoyo Los Stos","787-878-4135",
+"Gladys E","Vega Rivera","492 Km 20","787-878-4152","FB"
+"Georgina","Lopez Ortiz","Edif San Pablo","787-878-4308",
+"Georgina","Cepero","Urb Villa Serena","787-878-4416",
+"Gregorio","Cruz Aguilar","Palma","787-878-4495",
+"Gonzalo","Gonzalez Alfonzo","Ocean View","787-878-4603",
+"Gilberto","Perez Torres","Bo Hato Arriba","787-878-4604","FB"
+"Geraldo","Hernandez","Hato Abajo","787-878-4684",
+"Gladys E","Ocasio Mercado","Jdnes de Arecibo","787-878-4736","FB"
+"Grisselle Y","Perez Molina","Bo Bajadero","787-878-4755","FB"
+"Gilberto","Fuentes","Almendro","787-878-4934",
+"Gladys","Torres Quiles","Victor Rojas II","787-878-4980","E"
+"Gloria","Fuster Carmen","Lirio Villa Serena","787-878-5111",
+"Guillermo","Marquez Luis","653 Km 38","787-878-5134",
+"Gabriela","Rodriguez Guzman","Victor Rojas 2","787-878-5197",
+"Gregorio","Gonzalez Santiago","Ext Zeno Gandia","787-878-5198",
+"Gonzalo",,"Bo Dominguito","787-878-5199","NH"
+"Gregorio","Vargas Santiago","Bo Higuillales","787-878-5279","FB"
+"Gustavo","Bague Rodriguez","Urb Barrancas","787-878-5433",
+"Gloria E","Cuevas Serrano","Urb Villa Los Stos","787-878-5565",
+"Gladys","Carreras Barrios","Villa Lucia","787-878-5591",
+"Gabriel","Rodriguez Rodriguez","Urb Marisol","787-878-5725",
+"Guillermo","Rodriguez Cruz","Hato Arriba","787-878-5784",
+"Garcia R","Roman","San Felipe","787-878-5901",
+"Gloria E","Castro Lopez","Urb Villa Serena","787-878-6054",
+"Geronimo","Santiago Montanez","Factor I","787-878-6070","FB"
+"Genoveva","Cabrera","Bo Dominguito","787-878-6086",
+"Gloria M","Torres Roa","Jdnes de Arecibo","787-878-6104","FB"
+"Giovanni","Gonzalez Gonzalez","Bo Hato Arriba","787-878-6142","E"
+"Gloria E","Hernandez Arroyo","Urb Vista Azul","787-878-6185",
+"Guillermo","Classen Goitia","Urb Vista Azul","787-878-6207",
+"Genoveva","Rojas","Bo San Francisco","787-878-6306",
+"Gloria","Delgado","Hato Arriba","787-878-6326",
+"Gustavo","Linares Santiago","Bo Dominguito","787-878-6327",
+"Gloria E","Negron Avila","Urb Villa Serena","787-878-6333","FB"
+"Gregorio L","Padilla Perez","Rpto Marquez","787-878-6465","FB"
+"Greyznilda","Vazquez Ramos","Sect Mora","787-878-6681","FB"
+"Gloria","Valle Hernandez","Urb Paseos Raeles","787-878-6750","FB"
+"Gilberto","Rosario Camacho","Bo Miraflores","787-878-6756",
+"Guillermo","Quiñones","Urb Garcia","787-878-6768",
+"Graciliano","Mangual Medero","Magallane","787-878-6827",
+"Guillermo","Caraballo Oliver","Victor Rojas 1","787-878-7128",
+"Graciniano","Gil","Arecibo Gdns","787-878-7259",
+"Gustavo","Cañas Gonzalez","Hato Arriba","787-878-7442",
+"Gerardo","Perez Montano","Bo Factor II","787-878-7476","NH"
+"Gregory","Rivera Vazquez","Vista Azul","787-878-7571",
+"Gloria","Ocasio","Bo El Tanque","787-878-7676","FB"
+"Guillermo","Morales Morales","Urb Victor Rojas 2","787-878-7741","FB"
+"Gloria E","Donate Lopez","Bo Hato Abajo","787-878-7742",
+"Guillermo","Olmo Rivera","Domingo Ruiz","787-878-7868","FB"
+"Glenda L","Torres Torres","Bo Zenon Rivera","787-878-7899","FB"
+"Gladys","Soto Garcia","Bo Higuillar","787-878-7957","FB"
+"Gilberto","Cruz Soto","Urb Villa Angela","787-878-8348",
+"Gloria","Galarza","Hato Arriba","787-878-8379",
+"Gladys","Mieles Acevedo","Cotto","787-878-8420","FB"
+"Gloria E","Acosta Gonzalez","Los Caños","787-878-8545",
+"German","Ramos Guzman","Urb Villa Los Santos","787-878-8595",
+"Glorimar","Barreto Ginorio","Bo Hato Abajo","787-878-8607",
+"Gil Jacinto","Pagan","492 Km 08","787-878-8653",
+"Gloria","Santiago Garcia","Villa Serena","787-878-9004","FB"
+"Georgina","Rivera","Urb Victor Rosa I","787-878-9018",
+"Gustavo","Gomez Gonzalez","Villas de Garrochales","787-878-9185",
+"Gladys","Benitez Marquez","Bo Miraflores","787-878-9219",
+"Grisselle","Ramirez Roman","Jdns de Arecibo","787-878-9222",
+"Geronimo",,"San Felipe","787-878-9378",
+"Gloria M","Santiago Roman","Sect Colloral Tanama","787-878-9493","FB"
+"Genoveva","Ortiz Hernandez","Vista Azul","787-879-0038","NH"
+"Guillermo","Rivera Perez","Bo Hato Arriba","787-879-0053",
+"Georgina","Colon Velazquez","Juncos","787-879-0064",
+"Gaisy","Martinez Perez","Jdnes de Arecibo","787-879-0125",
+"Grimilda","Pabon Diaz","Rodriguez Olmo","787-879-0142",
+"German","Gonzalez Goitia","Gonzalo Marin","787-879-0159",
+"Guillermo","Rivera Colon","Bo Dominguito","787-879-0232",
+"Gabriel","Rubio Castro","Hato Arriba","787-879-0245",
+"German","Rivera Martinez","Bo Hato Viejo","787-879-0397",
+"Gilberto","Gonzalez Molina","Combate","787-879-0417",
+"Gregoria","Cortez Candelaria","Bo Domingo Ruiz","787-879-0422",
+"Gloria","Rodriguez Rivera","Rodriguez Olmo","787-879-0449",
+"Gustavo","Colon Rodriguez","Bo Higuillales","787-879-0500",
+"Gloria M","Rivera Rojas","Matienzo Cintron","787-879-0514",
+"Gabriel","Rubio Castro","Ests Vista Verde","787-879-0519",
+"Glorimar","De Jesus Deliz","Bo Garrochales","787-879-0642",
+"Gladys","Franco Mendoza","Sabana Hoyos","787-879-0730",
+"Geraldo","Maldonado Cortez","Urb San Felipe","787-879-0752",
+"Gloria I","Puebla Melon","Villa Lucia","787-879-0769",
+"Gilberto","Cruz","Villa Angela","787-879-0787",
+"Gonzalo","Martinez Diaz","Bo Dominguito","787-879-0863",
+"Genoveva","Navarro Gonzalez","Bo Juncos","787-879-0971","FB"
+"Gustavo","Ocaña","Urb Vista Azul","787-879-1031","FB"
+"Guillermo","Rios Jimenez","Bo Hato Arriba","787-879-1143",
+"Guadalupe",,"Urb El Paraiso","787-879-1267","FB"
+"Gladys","Olmo Maldonado","Jarealitos","787-879-1653","FB"
+"Gloria","Novoa","Res Marquez Arbona","787-879-1802","FB"
+"Glicelia","Diaz Rodriguez","Par Animas","787-879-1807",
+"Gladys","Garcia Alvarez","Urb Jard de Arecibo","787-879-2447",
+"Guillermo","Rios Garcia","Bo Hato Arriba","787-879-2555",
+"Gilberto","Olivo","Hato Viejo","787-879-2594","FB"
+"Gisela","Santiago Nuñez","Bo Colloral","787-879-2792",
+"Gladys","Cruz Rivera","Jdns Arecibo","787-879-2839",
+"Gloria","Romero Romero","Ocean View","787-879-2921",
+"Gilberto","Vega Avila","Sect La Cumbre","787-879-2943","FB"
+"Gregorio","Alfonso Garcia","Carrizales","787-879-2987",
+"Griselle","Perez Velez","Dominguito","787-879-3078","FB"
+"Gladys B","Ortiz Perez","University Gdns","787-879-3182","NH"
+"Gerbacia","Diaz Moreno","Islote II","787-879-3523",
+"Gabriel","Toledo Cruz","Victor Rojas","787-879-3607","FB"
+"Gilberto","Rivera Velez","Villa Los Santos","787-879-3687",
+"Georgina","Cruz Roman","Bo San Daniel","787-879-3706",
+"Gavino","Vazquez Mayoral","Urb Zeno Gandia","787-879-3731","NH"
+"Giovanni","Correa Vales","Bo Dominguito","787-879-3984",
+"Generosa","Ramos Gonzalez","San Jose","787-879-4024",
+"Gino","Pellot Power","Vista Azul","787-879-4079","NH"
+"Guillermo","Quiñones Muñiz","Bda Victor Rojas 1","787-879-4196",
+"Gisela O","Mondecit Cruz","University Gardens","787-879-4262","FB"
+"Griselda","De Jesus Ocasio","Terrazul","787-879-4297",
+"Gladys","De Jesus Fernandez","Bo Colloral","787-879-4687",
+"Gloryvee","Gonzalez Gonzalez","Urb Villa Lucia","787-879-4756",
+"Gilberto","Garcia Gonzalez","Vista Azul","787-879-4793",
+"Gisela","Aviles Hernandez","Res Bella Vista","787-879-4847",
+"Gerardo","Vazquez Cosme","San Pedro","787-879-4927","FB"
+"Guillermo","Marques Muñoz","Dr Salas","787-879-4934",
+"Genoveva",,"Dominguito","787-879-5448",
+"Gladys","Rodriguez Nuñez","Zeno Gandia","787-879-5553",
+"Gladys","Roman Vazquez","Guinea Tanama","787-879-5639",
+"Gerardo","Mena Quiñones","Urb Buenos Aires","787-879-8679","NH"
+"Gloriam","Arocho Hernandez","Urb Jdnes de Arecibo","787-879-9328",
+"Gilberto","Roman Portalatin","Islote","787-879-9477",
+"Gladys","Rios Mora","Hato Abajo","787-880-0003",
+"Gilberto","Acevedo Custodio","Sector Espino","787-880-0133",
+"Gertrudis","Chico Alonso","Dominguito","787-880-0243",
+"Gamalier","Diaz Rivera","Bo Carreras","787-880-0291",
+"Gerardo","Montañez Marquez","Bo Esperanza","787-880-0386","FB"
+"Gregorio","Ruiz Rivera","Bo Islote II","787-880-0469",
+"Guillermina","Ortiz Jimenez","Bo Esperanza","787-880-0539","FB"
+"Guarionex","Arce Gonzalez","Dominguito","787-880-0863",
+"Gloria","Classen Vargas","University Gdns","787-880-0874",
+"Gilberto","Rodriguez Rancel","Urb Vista Azul","787-880-0900","E"
+"Genoveva","Millet Millet","Esperanza","787-880-1106","NH"
+"Gregorio","Soto Negron","Sabana Hoyos","787-880-1163","NH"
+"Gabriel","Estremera Chacon","Bo Esperanza","787-880-1167",
+"Gladys","Gonzalez Martinez","Tamarindo","787-880-1280",
+"Gladys","Gonzalez Adorno","Res Manuel Zeno Gandia","787-880-1328",
+"Gualberto","Correa Roman","Costas del Alantico","787-880-1399",
+"Gilberto","Inserni Melendez","Islote","787-880-1444",
+"Gustavo","Roman Tejera","Urb San Felipe","787-880-1487",
+"Godofredo","Rodriguez Gracia","Altamira","787-880-1502",
+"Gustavo","Colon","Higuillales","787-880-1616",
+"Gilberto","Vazquez Quiles","Par Navas","787-880-1706","FB"
+"Gloria","Ramirez Rivera","Hogar San Pablo","787-880-1715",
+"German","Domena Martinez","Sect Manantiales","787-880-1826",
+"Gonzalo R","Navas","Villa Lucia","787-880-1859","FB"
+"Gabino","Cruz Lopez","Bo Cercadillo","787-880-1861",
+"Gian P","Jhamb Devi","Bo Islote","787-880-2167",
+"Gloria","Martinez Lariuz","Dominguito","787-880-2230","E"
+"Gilberto","Montalvo Rojas","Rodriguez Olmo","787-880-2436","FB"
+"Guillermo","Yambo Nazario","Bo Obrero","787-880-2452","FB"
+"Guillermo",,"Victor Rojas I","787-880-2466",
+"Gloria M","Rivera Aguila","Animas","787-880-2475",
+"Gilberto","Quiles Cuevas","Victor Rojas 2","787-880-2702","FB"
+"Gilberto","Aviles Soto","Bo Hato Abajo","787-880-2843",
+"Gregorio","Roman Capdevilla","Bo Calichoza","787-880-3024",
+"Glenda L","Feliciano Gonzalez","Sec Carrera II","787-880-3067",
+"Glorivette","Montalvo Guzman","Urb Brisas Del Valle","787-880-3318","FB"
+"Gilberto","Del Rio Rodriguez","Hato Arriba","787-880-3329",
+"German","Padin Santiago","Vista Azul","787-880-3477","NH"
+"Genoveva","Torres Domena","Trina Padilla de Sanz","787-880-3536","FB"
+"Griselle","Cabrera Diaz","Cienegueta Esperanza","787-880-3556",
+"Gregoria","Cotto Mercado","Hato Arriba","787-880-3597",
+"Georgino","Campos Reyes","Rincon Chiquito","787-880-3651",
+"Guillermina","Flores Reyes","Rio Arriba","787-880-3708",
+"Gregorio","Carrion Gonzalez","Bo La Planta","787-880-3776",
+"Geraldina","De la Cruz Serrano","Dominguito","787-880-3797",
+"Gladys","Martinez Maldonado","Bo Miraflores","787-880-3863",
+"Gladys","Gutierrez Padin","Bo Carisales","787-880-3896",
+"Gisselle M","Santiago Diaz","Urb Villas de Garrochales","787-880-3984","FB"
+"Gabriela","Ramos Rios","Villa Los Santos","787-880-4132",
+"Gladys E","Torres Colon","Hato Arriba","787-880-4169","FB"
+"Graciela","Maldonado Roman","Ballaja","787-880-4327",
+"Geracimo","Roman Farias","Bo Hato Abajo","787-880-4369",
+"Genoveva","Rivera Roman","Vista Azul","787-880-4500",
+"Geralda","Martinez Quiles","Bo Hato Viejo","787-880-4535",
+"Evelyn",,"Federico Degetau","787-880-4669",
+"Gloria","Ramos Velez","Urb El Paraiso","787-880-4716",
+"Gloria P","De Jesus Olmo","Bo Islote","787-880-4828",
+"Gregorio","Torres Nuñez","Urb Jdnes de Arecibo","787-880-4924","NH"
+"Gilberto","Campos Rojas","Bo Islote","787-880-4951",
+"Gilberto","Jimenez Olavarria","Bo Miraflores","787-880-5093",
+"Gladys M","Martinez Rosa","Bo Dominguito","787-880-5263",
+"Gloria E","Coll Ballester","Bda San Jose","787-880-5345",
+"Gloria","Leon Villegas","Urb Paseos ReaLES","787-880-5453",
+"Gisela","Rios Martinez","Bo Miraflores","787-880-5650",
+"Genove","Santiago Colon","Bo Sabana Hoyos","787-880-5863","FB"
+"Gilberto","Santiago Acevedo","Los Colon","787-880-6210","FB"
+"Gladys","Santiago Muñiz","Islote","787-880-6229","FB"
+"German","Velazquez Alvarez","Vistas del Atlantico","787-880-6474","NH"
+"Gloria E","Rosado Alvarez","Vista Azul","787-880-6511",
+"Genoveva","Molina Rivera","Urb Vista Azul","787-880-6518","NH"
+"Gilberto A","Morales Lopez","Bo Dominguito","787-880-6552","NH"
+"Gustavo","Mattei Chabran","Bo Dominguito","787-880-6562","FB"
+"German","Camacho Gerena","Hato Abajo","787-880-6598",
+"Georgina","Rios Rios","Bo Islote","787-880-7188",
+"Guillermo","Vargas Cortes","Islote","787-880-7397","FB"
+"Gregorio","Machado Reyes","Vivora Islote","787-880-7489",
+"Gloria","Olmo Acevedo","681 Km 69","787-880-7546","FB"
+"Gloria","Flores Garcia","Victor Rojas I","787-880-7551",
+"Gumersindo","Sanchez","Bo Islote","787-880-7814","FB"
+"Generosa","Gonzalez Cruz","Miraflores","787-881-0195",
+"Gladys","Miranda Morales","Principal","787-881-0218","FB"
+"Gloria M","Marrero Ocasio","Urb Los Pinos","787-881-0221",
+"Gladimine","Perez Santiago","Bo Juncos","787-881-0252","NH"
+"Georgino","Ortiz Rodriguez","Animas","787-881-0289",
+"Giselle","Peña Rivera","Urb Paseo Reales","787-881-0399","FB"
+"Gloria","Rodriguez Gonzalez","Res Zeno Gandia","787-881-0434",
+"Gladys","Nieves Doble","Parc Animas Factor I","787-881-0579",
+"Gloria M","Negron Miranda","Sabana Hoyos","787-881-0760","FB"
+"Gladys","Medina Ocasio","Villas de Garrochales","787-881-0778","NH"
+"Genevieve","Rivera Rivera","Bo Bajadero","787-881-0792",
+"Germania","Candelaria","Bo Ballaja","787-881-0879",
+"Gregorio","Rodriguez Rivera","Miraflores","787-881-0991",
+"Guillermina","Gonzalez Torres","Santana","787-881-1003",
+"Gerinaldo","Acevedo Vazquez","Bo Sabana Hoyos","787-881-1028",
+"German","Colon Villanueva","Domingo Ruiz","787-881-1044",
+"Gloria E","Gonzalez Perez","Sabana Hoyos","787-881-1066",
+"Gilberto","Rodriguez Vazquez","Bo Bajadero","787-881-1072",
+"Gustavo","Ruiz Rodriguez","Bo Santana","787-881-1181",
+"Gilberto","Ruiz Alicea","Bo Garrochales","787-881-1306",
+"Gregoria","Arce Caban","Sabana Hoyos","787-881-1374",
+"Gloria","Hernandez Quiñones","Bo Miraflores","787-881-1461",
+"Gilberto","Rosado Martinez","Miraflores","787-881-1495",
+"Guillermo","Torruella Leon","Santana","787-881-1551","FB"
+"Genaro","Rivera","Factor II","787-881-1604",
+"Gretchen","Vega Pagan","Urb Victor Rojas II","787-881-1630","FB"
+"Gregorio",,"Bo Arenalejos","787-881-1664",
+"Gloria E","De Jesus Cruz","Garrochales","787-881-1699",
+"Genoveva","Rodriguez Ocasio","Miraflores","787-881-1707",
+"Gabriel","Molina Torres","Urb Paseos Reales","787-881-1743","NH"
+"Gloria","Valentin Padilla","Santana","787-881-1958","FB"
+"Georgina","Figueroa Cintron","Garrochales","787-881-1986",
+"Guillermo","Reyes Colon","Bo Garrochales","787-881-2193",
+"Gladys","Miranda Gomez","Santana","787-881-2361","FB"
+"Gladys","Velez Roldan","Bo Factor","787-881-2407","FB"
+"Gloria","Batista De Jesus","Bo Carrera II","787-881-2421",
+"Gabriel","Rivera","San Luis Garrochales","787-881-2487",
+"Gertulio","Graciano Adorno","Bo Santana","787-881-2507",
+"Gustavo","Gandia Rivera","Parc San Luis","787-881-2509",
+"German","Villenas Silva","Arenalejos","787-881-2713","NH"
+"Gilberto","Garcia Figueroa","Domingo Ruiz","787-881-2752",
+"Guillermo","Cruz","Bo Garrochales","787-881-2820",
+"Gilberto","Olivo Irizarry","Bo Hato Arriba","787-881-2827","NH"
+"Gladys E","Perez Rivera","Garrochales","787-881-2829","FB"
+"Gabriel","Cruz Montalvo","Bo Santana","787-881-2857",
+"Gloria E","Matos Arroyo","Urb Est de la Sabana","787-881-2899","FB"
+"Gregorio","Centeno Maldonado","Garrochales","787-881-2921",
+"Gladys","Plaza Bordoy","Bajadero","787-881-3028","FB"
+"Gudelio","Rodriguez Reyes","Bo Arrozal","787-881-3157",
+"German","Acevedo Gonzalez","Bo Dominguito","787-881-3175",
+"Gloria","Gonzalez Oyola","Bajadero","787-881-3246",
+"Giselle","Rodriguez Rodriguez","Res Ramon Marin Sola","787-881-3476",
+"Gloria E","Serrano Vargas","Bo Hato Arriba","787-881-3542","FB"
+"Gladixsa","Gonzalez Cruz","Bo Factor II","787-881-3604",
+"Guillermo","Olmo Martinez","Bo Boan","787-881-3720","NH"
+"Gumersindo","Oyola Reyes","Cercadillo","787-881-3723","FB"
+"Gladys N","Segarra","Urb Paseo Real","787-881-3889","FB"
+"Gladys","Perez Perez","Bo Santana","787-881-3982","NH"
+"German","Rivera Robles","Bo Carreras 2","787-881-4017",
+"Geovanny","Centeno Faria","Miraflores","787-881-4032",
+"Georgina","Martinez Rodriguez","Bo Sabana Hoyos","787-881-4126",
+"Gloria E","Armina Terron","Miraflores","787-881-4161",
+"Gloria","Espinosa Vega","Sabana Hoyos","787-881-4191",
+"Grisela","Centeno Torres","Bo Santana","787-881-4267",
+"Gerinaldo","Acevedo Mercado","Sabana Hoyos","787-881-4428",
+"Gregoria","Serrano Correa","Factor I","787-881-4496","FB"
+"Gloria","Quiñones Agosto","Sec Espino","787-881-4806","FB"
+"Gerardo A","Mercado Reyes","Ext Tanama","787-881-4825","FB"
+"Guadalupe","Molina Montano","Bo Carrera","787-881-4977","FB"
+"Genoveva","Gonzalez Mena","Manantiales","787-881-5049",
+"Gabriela","Alfaro Flores","Miraflores II","787-881-5104",
+"Gloria","Feliciano Maldonado","Riachuelo","787-881-5166",
+"Gloria E","Centeno","Parc Nuevas Sabana Hoyos","787-881-5353",
+"Gloria","Gomez Nuñez","Bo Miraflores","787-881-5498",
+"Gustavo","Medina Medina","Domingo Ruiz","787-881-5672",
+"Gregoria","Velez Moran","Arrozal","787-881-5707","FB"
+"Gilberto","Mercado Roman","Sabana Hoyos","787-881-5753","FB"
+"Gloria","Alvarez Velez","Los Llanos Santana","787-881-5818",
+"Gregoria","Cortes Candelaria","Bajadero","787-881-5822",
+"Gilberto","Acevedo Mercado","Sabana Hoyos","787-881-5833","NH"
+"Grisel","Arroyo Rivera","Bo Arrozal","787-881-6052",
+"Gladys","Reyes Centeno","Bo Santana","787-881-6254",
+"Gloria","Montalvo Arguelles","Bo Carras","787-881-6278","FB"
+"Genara","Mercado Monroig","Sabana Hoyos","787-881-6388","FB"
+"Gabriel","Faria Medina","Bo Bajadero","787-881-6517",
+"Gladys G","Rice Velez","Hcda Del Paraiso","787-881-6607",
+"Georgina","Ayala Rojas","Sec Sabana","787-881-6636",
+"Gladys","Garcia Andujar","Santana","787-881-6827",
+"Gloria N","Roman Flores","Bo Santana","787-881-6855",
+"Gina","Muñiz Centeno","Bo Miraflores","787-881-6926","FB"
+"Gilberto","Marquez","Garrochales","787-881-7009",
+"Gloria","Picon Ramirez","Factor I","787-881-7082","NH"
+"Gladys L","Natal Bordoy","Par Buena Vista","787-881-7086","NH"
+"Gilberto","Rios Ayala","Sabana Garrochales","787-881-7142",
+"Gilberto","Rivera Cuchi","Bo Miraflores","787-881-7239",
+"Gerardo","Santiago Santiago","Jardines de Factor","787-881-7331","NH"
+"German","Torres Torres","Arrozal","787-881-7526","FB"
+"Gloria I","Lucena Velez","Palo Blanco","787-881-7697",
+"Genoveva","Castillo Betancourt","Bo Factor I","787-881-7731",
+"Guadalupe","Molina Martinez","Sabana Hoyos","787-881-7963","FB"
+"Gabino","Rivera Cepero","Palache","787-881-8013",
+"German","Mojica Rodriguez","Carriones","787-881-8067","FB"
+"Gerardo","Torres Zeno","Factor I","787-881-8166","NH"
+"Gladys","Pabon Ojeda","Bo Domingo Ruiz","787-881-8248","E"
+"Gladys","Colon Cruz","Urb Villa Mena","787-881-8296",
+"Gregorio","Ayala Roman","Alto El Cabro","787-881-8415",
+"Gladys","Rodriguez Jimenez","Santana","787-881-8451",
+"Gloria","Velez Toledo","Factor I","787-881-8612","FB"
+"Gilberto","Plumey Serrano","Parc Carrion","787-881-8625","FB"
+"Gregoria","Aguila Bonet","Repto Sta Maria","787-881-9081",
+"Gladys","Lopez Nieves","Par Carriones","787-881-9205",
+"Gretchen M","Lugo Cruz","Bo Santana","787-881-9375",
+"Gladys","Molina Perez","Sabana Hoyos","787-881-9441","NH"
