@@ -26,12 +26,17 @@ def get_items_from_csv(path):
     """Get items from csv file."""
     from . import Phone
 
-    with open(path, 'r', encoding='cp1252') as f:
+    # with open(path, 'r', encoding='cp1252') as f:
+    with open(path, 'r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         items = []
         for row in reader:
+            # print(row)
+            # items.append(row)
             items.append(
-                Phone(row['First'], row['Last'],
-                      row['Address'], row['Phone'])
+                # Phone(row['First'], row['Last'],
+                #       row['Address'], row['Phone'])
+                Phone(row["First Name"], row["Last Name"],
+                      row["Address"], row["Phone Number"], row["Notes"])
             )
         return items

@@ -85,3 +85,7 @@ def test_pdf(params):
     print(len(items))
 
     make_pdf_from_items(items, title, output)
+
+
+def test_foobar():
+    print("this is just a test")

@@ -26,7 +26,7 @@ class PDF(FPDF):
 
 def truncate(str):
     """Truncate a string."""
-    if(len(str) > 22):
+    if (len(str) > 22):
         return str[:22] + '...'
 
     return str
@@ -46,24 +46,25 @@ def make_pdf_from_items(items, title, out):
 
     for index in range(0, len(items), 3):
 
-        if index != 0 and index % 24 == 0:
+        if index != 0 and index % 18 == 0:
             document.add_page()
 
         for idx in range(3):
             i = index + idx
 
-            if(i < len(items)):
+            if (i < len(items)):
                 document.multi_cell(
                     w=65,
                     h=10,
-                    txt="{name}\n{address}\n{phone}".format(
+                    txt="{name}\n{address}\n{phone}\n{notes}".format(
                         name=truncate(f"{items[i].first} {items[i].last}"),
                         address=truncate(items[i].address),
-                        phone=phone_reqex.sub(r'\1-\2-\3', items[0].phone)
+                        phone=phone_reqex.sub(r'\1-\2-\3', items[i].phone),
+                        notes=truncate(items[i].notes)
                     ),
                     ln=3,
                     border=1)
 
-        document.ln(line_height*3)
+        document.ln(line_height*4)
 
     document.output(out)

@@ -13,7 +13,7 @@ from .csv import get_items_from_csv
 from .pdf import make_pdf_from_items
 
 from collections import namedtuple
-Phone = namedtuple('Phone', ['first', 'last', 'address', 'phone'])
+Phone = namedtuple('Phone', ['first', 'last', 'address', 'phone', 'notes'])
 
 
 def get_url(url):
