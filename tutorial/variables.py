@@ -1,5 +1,6 @@
-# pylint: disable=C0103
 """ show variables """
+
+# pylint: invalid-name
 
 message = "Hello, World!"
 print(message)

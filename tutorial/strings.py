@@ -1,5 +1,6 @@
-# pylint: disable=C0103
 """show how strings work"""
+
+# pylint: disable=invalid-name
 
 message = "This is a string in Python"
 message = "It's a string"

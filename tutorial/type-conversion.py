@@ -1,5 +1,7 @@
 """show typeconversion"""
 
+# pylint: disable=invalid-name
+
 a = "123"
 integer = int(a)
 
