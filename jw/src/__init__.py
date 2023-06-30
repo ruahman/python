@@ -1,14 +1,16 @@
-"""The JW phone territory app."""
-# from .jw import run
+"""Commands to run from poetry."""
+import os
+import glob
 
 
-# def generate_pdf(csv_file):
-#     """Run JW phone territory."""
-#     run('./data/import/')
-# jw.run('./data/html/quebradillas-1.html',
-#        './data/csv/quebradillas_1.csv',
-#        './data/pdf/quebradillas_1.pdf', 4)
+def start():
+    """Run command to read from text and generate csv and pdf."""
+    # clear cvs
+    for f in glob.glob('./data/csv/export/*'):
+        os.remove(f)
 
-# jw.run('./data/html/quebradillas-2.html',
-#        './data/csv/quebradillas_2.csv',
-#        './data/pdf/quebradillas_2.pdf', 4)
+    # clear pdf
+    for f in glob.glob('./data/pdf/export/*'):
+        os.remove(f)
+
+    # create pdfs

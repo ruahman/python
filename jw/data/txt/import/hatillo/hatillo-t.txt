@@ -1,0 +1,92 @@
+Hatillo	T Telephone	Territory
+Alcaide Gutierrez , Telesforo
+130 Km 00
+787-820-1051
+Alfonso Herrera , Teodoro
+Bo Carrizales
+787-898-0416
+Alvarez Muñiz , Trinidad
+Callejon Caco
+787-820-5714
+Aybar Rivera , Tomas
+Bo Carrizales
+787-898-1613
+Bonilla Rivera , Trinidad
+Ext San Ramon
+787-898-6837
+Camacho , Teresita
+Parc Viejas Bayaney
+787-262-6723
+Cardona Gonzalez , Taina
+Bo Bayaney
+787-898-7031
+Cruz Padilla , Teresa
+Bo Pueblo
+787-820-0725
+Del Rio Pitre , Tomas
+Aibonito
+787-262-7751
+Del Rio , Tomasa
+Bo Aibonito
+787-898-7637
+Delgado Delgado , Tomasa
+Capaez
+787-898-3872
+Dorta Feliciano , Teresita
+Bo Capaez
+787-820-5746
+Figueroa Encarnacion , Tomas
+Urb Mar Azul
+787-898-6723
+Flores , Tamara
+Bo Buena Vista
+787-898-4262
+Garcia Torruellas , Tata
+Urb Ests de Palma Gorda
+787-820-7128
+Lopez , Thelma
+Bo Pueblo
+787-898-4467
+Lucena , Telesforo
+Santa Rosa
+787-898-6468
+Martinez Hernandez , Tereza
+Bo Carrizalez
+787-820-2685
+Medina Luciano , Teodoro
+Campo Alegre
+787-262-1035
+Montijo Castillo , Tilsia
+Villa del Carmen
+787-898-9186
+Mora Santiago , Teodoro
+Carrizales
+787-262-6409
+Osoria Cruz , Tomas
+Parc Capaez
+787-898-7232
+Padilla , Tomas
+Bo Pueblo
+787-898-2587
+Paez Felix , Teresa
+Bo Carrisales
+787-820-4517
+Hatillo	T Telephone	Territory
+Pagan Roman , Tito
+Aibonito
+787-898-1012
+Perez Novoa , Teresa
+Bo Corcovada
+787-544-7760
+Perez Santiago , Tomasa
+Bo Bayaney
+787-820-4708
+Rivera Arroyo , Teresa
+Bo Bayaney
+787-262-0203
+Rivera Roman , Tamara
+Bo Campo Alegre
+787-544-6158
+Rivera Velez , Tomas E
+Valle Verde
+787-820-0159
