@@ -46,3 +46,37 @@ print(str_len)
 # string slice
 str = "Python String"
 print(str[0:2])
+
+txt = "The best things in life are free!"
+print("free" in txt)
+
+txt = "The best things in life are free!"
+print("expensive" not in txt)
+
+# string slice
+b = "Hello, World!"
+print(b[2:5])
+
+# slice from the start
+b = "Hello, World!"
+print(b[:5])
+
+
+# slice to the end
+b = "Hello, World!"
+print(b[2:])
+
+# remove whitespace
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+
+# split string 
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
+
+# string formate 
+age = 36
+txt = f"My name is John, I am {age}"
+print(txt)
+
+
