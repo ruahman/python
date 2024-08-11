@@ -15,7 +15,7 @@ def csv_to_pdf(csv_file, pdf_file):
     pdf.set_font("Arial", size=12)
 
     # Add a title
-    pdf.cell(200, 10, txt="CSV to PDF", ln=True, align="C")
+    pdf.cell(200, 10, text="CSV to PDF", ln=True, align="C")
 
     # Add a line break
     pdf.ln(10)
