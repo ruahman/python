@@ -1,7 +1,7 @@
 import time
 import sys
 
-# test gpg
+# test yubi sign
 import stomp
 
 
