@@ -1,6 +1,7 @@
-""" main module """
+"""main module"""
 
 
+# yubi test from lazygit
 def main():
     """main method"""
     i = 1
