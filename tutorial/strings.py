@@ -68,15 +68,13 @@ print(b[2:])
 
 # remove whitespace
 a = " Hello, World! "
-print(a.strip()) # returns "Hello, World!"
+print(a.strip())  # returns "Hello, World!"
 
-# split string 
+# split string
 a = "Hello, World!"
-print(a.split(",")) # returns ['Hello', ' World!']
+print(a.split(","))  # returns ['Hello', ' World!']
 
-# string formate 
+# string formate
 age = 36
 txt = f"My name is John, I am {age}"
 print(txt)
-
-

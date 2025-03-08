@@ -16,7 +16,6 @@
     devShells.${system}.default = with pkgs; mkShell {
       buildInputs = [
         python312
-        python312Packages.pytest
         pyright
         ruff
         mypy
