@@ -16,6 +16,10 @@
     devShells.${system}.default = with pkgs; mkShell {
       buildInputs = [
         python312
+        python312Packages.pip
+        python312Packages.matplotlib
+        python312Packages.numpy
+        python312Packages.pandas
         pyright
         ruff
         mypy
