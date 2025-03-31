@@ -20,6 +20,9 @@
         python312Packages.matplotlib
         python312Packages.numpy
         python312Packages.pandas
+        python312Packages.fastparquet
+        python312Packages.openpyxl
+        python312Packages.watchdog
         pyright
         ruff
         mypy

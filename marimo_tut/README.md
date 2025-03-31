@@ -80,8 +80,35 @@ marimo tutorial sql
 
 marimo run my_notebook.py
 
+marimo reacts to your code changes: run a cell, and all other cells that refer to the variables it defines 
 
+this provides deterministic execution order. 
 
+marimo statically analyzes each cell to determin 
+- references, the global variables it reads but does not define;
+- definitions, the global variables it does define.
 
+it then forms a directed acyclic graph (DAG) on cells
 
+marimo does not track mutations to variable, nor assignments to attributes. 
+that means that if you assign an attribute like foo.bar = 10, other cells 
+referencing foo.bar will not be run
 
+global variable names must be unique
+
+variables prefixed with an underscore are "local" to a cell:
+they can't be read by other cells.
+
+you can also encapsulate the temporary variables in a function.
+
+try this 
+
+```python
+def _():
+    import matplotlib.pyplot as plt
+    fig, ax = plt.subplots()
+    ax.plot([1, 2])
+    return ax
+
+_()
+```
