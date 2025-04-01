@@ -23,6 +23,8 @@
         python312Packages.fastparquet
         python312Packages.openpyxl
         python312Packages.watchdog
+        python312Packages.duckdb
+        python312Packages.polars
         pyright
         ruff
         mypy
