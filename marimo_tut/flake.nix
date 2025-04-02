@@ -25,6 +25,9 @@
         python312Packages.watchdog
         python312Packages.duckdb
         python312Packages.polars
+        python312Packages.pyarrow
+        python312Packages.sqlglot
+        httpfs2
         pyright
         ruff
         mypy
