@@ -27,6 +27,7 @@
         python312Packages.polars
         python312Packages.pyarrow
         python312Packages.sqlglot
+        python312Packages.ipython
         httpfs2
         pyright
         ruff
