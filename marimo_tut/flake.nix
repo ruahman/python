@@ -28,6 +28,7 @@
         python312Packages.pyarrow
         python312Packages.sqlglot
         python312Packages.ipython
+        python312Packages.sympy
         httpfs2
         pyright
         ruff
