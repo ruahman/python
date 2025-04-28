@@ -6,14 +6,16 @@ app = marimo.App(width="medium")
 
 @app.cell
 def _():
-    return
+    import marimo as mo
+    return (mo,)
 
 
 @app.cell
-def _():
-    print(10 > 9)
-    print(10 == 9)
-    print(10 < 9)
+def _(mo):
+    _x = abs(-5)
+    mo.md(rf"""
+    |x| = {_x}
+    """)
     return
 
 
