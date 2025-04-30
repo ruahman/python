@@ -50,5 +50,31 @@ def _(display, sympy, x):
     return (y,)
 
 
+@app.cell
+def _(Math, display, sympy):
+    q = sympy.symbols('q')
+    _eq = 3*q + 4/q + 3 - (5*q + 1/q + 1)
+    display(_eq)
+    display(Math("q=%s" % sympy.latex(sympy.solve(_eq, q))))
+    return (q,)
+
+
+@app.cell
+def _(Math, display, q, sympy):
+    _eq = 2*q + 3*q**2 - 5/q - 4/q**3
+    display(Math(sympy.latex(_eq)))
+    return
+
+
+@app.cell
+def _(display, q, sympy):
+    _ex = (sympy.sqrt(3) + sympy.sqrt(15)*q) / (sympy.sqrt(2) + sympy.sqrt(10)*q)
+    display(_ex)
+    display(_ex.subs(q,10))
+    display(_ex.subs(q,10).evalf())
+    display(_ex.simplify())
+    return
+
+
 if __name__ == "__main__":
     app.run()
