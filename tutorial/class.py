@@ -6,26 +6,26 @@ p1 = MyClass()
 print(p1.x)
 
 
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
+# class Person:
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#
+#     def __str__(self):
+#         return f"{self.name}({self.age})"
+#
+#     def myfunc(self):
+#         print("Hello my name is " + self.name)
+#
+#     def myfunc1(person):
+#         print("Hello my name is " + person.name)
 
-    def __str__(self):
-        return f"{self.name}({self.age})"
 
-    def myfunc(self):
-        print("Hello my name is " + self.name)
+# p1 = Person("John", 36)
 
-    def myfunc1(person):
-        print("Hello my name is " + person.name)
-
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-print(p1)
+# print(p1.name)
+# print(p1.age)
+# print(p1)
 
 
 class Person:
@@ -43,8 +43,8 @@ class Student(Person):
         self.graduationyear = year
 
 
-x = Student("Mike", "Olsen", 2019)
-print(x)
+# x = Student("Mike", "Olsen", 2019)
+# print(x)
 
 
 class Vehicle:

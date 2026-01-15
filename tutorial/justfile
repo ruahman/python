@@ -1,0 +1,6 @@
+
+run file:
+  python {{file}}
+
+test file:
+  python -m unittest {{file}}

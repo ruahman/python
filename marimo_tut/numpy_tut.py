@@ -34,6 +34,7 @@ def _(mo):
 @app.cell
 def _():
     import marimo as mo
+
     return (mo,)
 
 
@@ -51,15 +52,13 @@ def _():
 
 @app.cell
 def _(np):
-    a1 = np.array([1,2,3],dtype='int16')
-    a1
+    a1 = np.array([1, 2, 3], dtype="int16")
     return (a1,)
 
 
 @app.cell
 def _(np):
-    b = np.array([[9.0,8.0,7.0],[6.0,5.0,4.0]])
-    b
+    b = np.array([[9.0, 8.0, 7.0], [6.0, 5.0, 4.0]])
     return (b,)
 
 
@@ -107,33 +106,33 @@ def _(a1):
 
 @app.cell
 def _(np):
-    a2 = np.array([[1,2,3,4,5,6,7],[8,9,10,11,12,13,14]])
+    a2 = np.array([[1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14]])
     print(a2)
     return (a2,)
 
 
 @app.cell
 def _(a2):
-    a2[0,:]
+    a2[0, :]
     return
 
 
 @app.cell
 def _(a2):
-    a2[:,2]
+    a2[:, 2]
     return
 
 
 @app.cell
 def _(a2):
-    a2[0,1:6:2]
+    a2[0, 1:6:2]
     return
 
 
 @app.cell
 def _(a2):
-    _a = a2 
-    _a[1,5] = 20
+    _a = a2
+    _a[1, 5] = 20
     print(_a)
     return
 
@@ -152,7 +151,7 @@ def _(np):
 
 @app.cell
 def _(np):
-    np.zeros((2,3,3))
+    np.zeros((2, 3, 3))
     return
 
 
@@ -164,7 +163,7 @@ def _(mo):
 
 @app.cell
 def _(np):
-    np.ones((4,2,2))
+    np.ones((4, 2, 2))
     return
 
 
@@ -176,7 +175,7 @@ def _(mo):
 
 @app.cell
 def _(np):
-    np.full((2,2), 99, dtype='float32')
+    np.full((2, 2), 99, dtype="float32")
     return
 
 
@@ -188,7 +187,7 @@ def _(mo):
 
 @app.cell
 def _(np):
-    np.random.rand(4,2)
+    np.random.rand(4, 2)
     return
 
 
@@ -212,7 +211,7 @@ def _(mo):
 
 @app.cell
 def _(np):
-    a3 = np.array([1,2,3,4])
+    a3 = np.array([1, 2, 3, 4])
     return (a3,)
 
 
@@ -236,7 +235,7 @@ def _(a3):
 
 @app.cell
 def _(a3):
-    a3 ** 2
+    a3**2
     return
 
 
@@ -254,7 +253,7 @@ def _(mo):
 
 @app.cell
 def _(a3, np):
-    b2 = np.array([1,0,1,0])
+    b2 = np.array([1, 0, 1, 0])
     a3 + b2
     return (b2,)
 
