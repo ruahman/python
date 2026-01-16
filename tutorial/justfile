@@ -4,3 +4,6 @@ run file:
 
 test file:
   python -m unittest {{file}}
+
+clean:
+  rm -rf .ruff_cache
