@@ -6,4 +6,4 @@ test file:
   python -m unittest {{file}}
 
 clean:
-  rm -rf .ruff_cache
+  rm -rf .ruff_cache __pycache__ .mypy_cache
