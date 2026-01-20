@@ -22,10 +22,31 @@ def run():
 
     print(help_message)
 
+    # strings are immutable
+    name = "Sam"
+    # this cause problems
+    # name[0] = "P"
+    # instead use concatenation
+    print("concat: " + "P" + name[1:])
+
+    # upper
+    print("cap: ", name.upper())
+
+    # split
+    name = "Sam Vila"
+    print("split: ", name.split())
+    name = "Diego-vila"
+    print("split: ", name.split("-"))
+
     # formating
     name = "John"
-    message = f"Hi {name}"
-    print(message)
+    print("format:", f"Hi {name}")
+    age = "23"
+    print(f"format: {name} is {age} years old")
+
+    print("format: ", "String here {} then also {}".format("somethign1", "something2"))
+    print("format: ", "The {2} {1} {0}".format("fox", "brown", "quick"))
+    print("format: ", "The {q} {b} {f}".format(f="fox", b="brown", q="quick"))
 
     # concat
     greeting = "Good "
@@ -65,6 +86,15 @@ def run():
     # slice to the end
     b = "Hello, World!"
     print(b[2:])
+
+    # reverse index
+    print("reverser " + b[-3])
+
+    # copy
+    print(f"copy: {b[:]}")
+
+    # skip
+    print(f"skip: {b[::2]}")
 
     # remove whitespace
     a = " Hello, World! "

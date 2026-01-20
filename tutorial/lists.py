@@ -1,67 +1,81 @@
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist)
+import unittest
 
-# list length
-print(len(thislist))
 
-# list items
-print(thislist[1])
+def run():
+    thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+    print(thislist)
 
-# last item
-print(thislist[-1])
+    # list length
+    print(len(thislist))
 
-# range
-print(thislist[2:5])
+    # list items
+    print(thislist[1])
 
-# end
-print(thislist[:4])
+    # last item
+    print(thislist[-1])
 
-# start
-print(thislist[2:])
+    # range
+    print(thislist[2:5])
 
-# check if item exists in list
-if "apple" in thislist:
-    print("Yes, 'apple' is in the fruits list")
+    # end
+    print(thislist[:4])
 
-thislist[1] = "blackcurrant"
-print(thislist)
+    # start
+    print(thislist[2:])
 
-# append
-thislist.append("orange")
-print(thislist)
+    # check if item exists in list
+    if "apple" in thislist:
+        print("Yes, 'apple' is in the fruits list")
 
-# insert
-thislist.insert(1, "orange")
-print(thislist)
+    thislist[1] = "blackcurrant"
+    print(thislist)
 
-# remove
-thislist.remove("banana")
-print(thislist)
+    # append
+    thislist.append("orange")
+    print(thislist)
 
-# remove specified index
-thislist.pop(1)
+    # insert
+    thislist.insert(1, "orange")
+    print(thislist)
 
-# loop
-for x in thislist:
-    print(x)
+    # remove
+    # thislist.remove("banana")
+    # print(thislist)
 
-# loop with index
-for i in range(len(thislist)):
-    print(thislist[i])
+    # remove specified index
+    thislist.pop(1)
 
-# list comprehension
-[print(x) for x in thislist]
+    # loop
+    for x in thislist:
+        print(x)
 
-# list comprehensions
-fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+    # loop with index
+    for i in range(len(thislist)):
+        print(thislist[i])
 
-newlist = [x for x in fruits if "a" in x]
+    # list comprehension
+    [print(x) for x in thislist]
 
-print(newlist)
+    # list comprehensions
+    fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 
-newlist = [x for x in fruits if x != "apple"]
+    newlist = [x for x in fruits if "a" in x]
 
-print(newlist)
+    print(newlist)
 
-copylist = fruits[:]
-print(copylist)
+    newlist = [x for x in fruits if x != "apple"]
+
+    print(newlist)
+
+    copylist = fruits[:]
+    print(copylist)
+
+
+# Test Case
+class TestRun(unittest.TestCase):
+    def test_run(self):
+        run()
+
+
+if __name__ == "__main__":
+    run()
