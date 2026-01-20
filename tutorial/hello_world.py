@@ -8,6 +8,7 @@ def hello():
 # Test Case
 class TestHelloWorld(unittest.TestCase):
     def test_helo(self):
+        print("foobar")
         self.assertEqual(hello(), "hello world")
 
 
