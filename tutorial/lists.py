@@ -31,7 +31,7 @@ def run():
     print(thislist)
 
     # append
-    thislist.append("orange")
+    thislist.append("orange tst")
     print(thislist)
 
     # insert
