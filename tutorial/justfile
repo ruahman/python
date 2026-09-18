@@ -2,8 +2,8 @@
 run file:
   python {{file}}
 
-test file:
-  python -m unittest {{file}}
+test:
+  python -m unittest discover
 
 clean:
   rm -rf .ruff_cache __pycache__ .mypy_cache
