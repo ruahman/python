@@ -1,6 +1,3 @@
-import unittest
-
-
 def run():
     thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
     print(thislist)
@@ -55,6 +52,11 @@ def run():
 
     # list comprehension
     [print(x) for x in thislist]
+    fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+    newlist = [x for x in fruits if "a" in x]
+
+    print(newlist)
 
     # list comprehensions
     fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
@@ -72,9 +74,6 @@ def run():
 
 
 # Test Case
-class TestRun(unittest.TestCase):
-    def test_run(self):
-        run()
 
 
 if __name__ == "__main__":

@@ -1,18 +1,23 @@
-thisdict = {"brand": "Ford", "model": "Mustang", "year": 1964}
-print(thisdict)
+def run():
+    thisdict = {"brand": "Ford", "model": "Mustang", "year": 1964}
+    print(thisdict)
 
-print(thisdict["brand"])
+    print(thisdict["brand"])
 
-print(len(thisdict))
+    print(len(thisdict))
 
-print(thisdict.keys())
+    print(thisdict.keys())
 
-print(thisdict.values())
+    print(thisdict.values())
 
-print(thisdict.items())
+    print(thisdict.items())
 
-if "model" in thisdict:
-    print("key found")
+    if "model" in thisdict:
+        print("key found")
 
-for x in thisdict:
-    print(x)
+    for x in thisdict:
+        print(x)
+
+
+if __name__ == "__main__":
+    run()

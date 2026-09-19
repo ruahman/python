@@ -1,19 +1,33 @@
-# Tuples are unchangeable, meaning that you cannot change, add, or remove items after the tuple has been created.
-mytuple = ("apple", "banana", "cherry")
+def run():
+    # Tuples are unchangeable, meaning that you cannot change, add, or remove items after the tuple has been created.
+    mytuple = ("apple", "banana", "cherry")
 
-# unpack a tuple
-fruits = ("apple", "banana", "cherry")
-(green, yellow, red) = fruits
+    # unpack a tuple
+    fruits = ("apple", "banana", "cherry")
+    (green, yellow, red) = fruits
 
-print(green)
-print(yellow)
-print(red)
+    print(green)
+    print(yellow)
+    print(red)
 
-# rest of the items
-fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+    # rest of the items
+    fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
 
-(green, yellow, *red) = fruits
+    (green, yellow, *red) = fruits
 
-print(green)
-print(yellow)
-print(red)
+    print(green)
+    print(yellow)
+    print(red)
+
+    fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+
+    # pack rest to red
+    (green, yellow, *red) = fruits
+
+    print(green)
+    print(yellow)
+    print(red)
+
+
+if __name__ == "__main__":
+    run()
