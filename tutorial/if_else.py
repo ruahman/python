@@ -9,6 +9,12 @@ def run():
     if 5 > 2:
         print("Five is greater than two!")
 
+    # short hand
+    a = 10
+    b = 20
+    bigger = a if a > b else b
+    print("Bigger is", bigger)
+
 
 if __name__ == "__main__":
     run()

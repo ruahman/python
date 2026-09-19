@@ -11,9 +11,6 @@ def multiply(num1, num2):
     print(num1 * num2)
 
 
-multiply(2, 3)
-
-
 def multiplier(multiplier):
     def multiply_generator(old_function):
         def new_function(*args, **kwds):
@@ -30,5 +27,11 @@ def return_num(num):
     return num
 
 
-# Now return_num is decorated and reassigned into itself
-return_num(5)  # should return 15
+def run():
+    # Now return_num is decorated and reassigned into itself
+    return_num(5)  # should return 15
+    multiply(2, 3)
+
+
+if __name__ == "__main__":
+    run()

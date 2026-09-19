@@ -21,5 +21,10 @@ def lottery():
     yield random.randint(1, 15)
 
 
-for random_number in lottery():
-    print("And the next number is... %d!" % (random_number))
+def run():
+    for random_number in lottery():
+        print("And the next number is... %d!" % (random_number))
+
+
+if __name__ == "__main__":
+    run()
