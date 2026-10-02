@@ -1,15 +1,17 @@
-import unittest
-
-
 def run():
     """show how strings work"""
 
-    # pylint: disable=invalid-name
-
     message = "This is a string in Python"
+    print(message)
+
     message = "It's a string"
+    print(message)
+
     message = '"Beautiful is better than ugly.". Said Tim Peters'
+    print(message)
+
     message = r"C:\python\bin"
+    print(message)
 
     # multiline strings
     help_message = """
@@ -19,7 +21,6 @@ def run():
         -u username
         -p password 
     """
-
     print(help_message)
 
     # strings are immutable
@@ -45,7 +46,7 @@ def run():
     print(f"format: {name} is {age} years old")
 
     print("format: ", "String here {} then also {}".format("somethign1", "something2"))
-    print("format: ", "The {2} {1} {0}".format("fox", "brown", "quick"))
+    print("format: ", "The {} {} {}".format("fox", "brown", "quick"))
     print("format: ", "The {q} {b} {f}".format(f="fox", b="brown", q="quick"))
 
     # concat
