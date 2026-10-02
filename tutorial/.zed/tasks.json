@@ -1,0 +1,15 @@
+// Project tasks configuration. See https://zed.dev/docs/tasks for documentation.
+//
+// Example:
+[
+  {
+    "label": "Run Python",
+    "command": "python",
+    "args": ["$ZED_FILE"],
+  },
+  {
+    "label": "Test Python",
+    "command": "python -m unittest",
+    "args": ["$ZED_FILE"],
+  },
+]
